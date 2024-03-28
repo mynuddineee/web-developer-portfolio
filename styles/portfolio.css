@@ -111,3 +111,12 @@ nav a{
 .info-descripction{
     color: black ;
 }
+
+#What-i-do-description{
+   padding: 20px 150px; 
+}
+
+
+.skills-container{
+    display: flex;
+}
